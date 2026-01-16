@@ -1,6 +1,6 @@
-# 🐕 Hound
+# 🐕 Locsentra
 
-**Hound** is a lightweight, command-line–based utility designed for monitoring, analysis, and automation tasks. It provides a modular and extensible framework for inspecting system behavior, managing application data, and performing routine maintenance operations.
+**Locsentra** is a lightweight, command-line–based utility designed for monitoring, analysis, and automation tasks. It provides a modular and extensible framework for inspecting system behavior, managing application data, and performing routine maintenance operations.
 
 The project focuses on clean structure, simplicity, and flexibility, making it suitable for learning, experimentation, and development of system-level tools.
 
@@ -17,7 +17,7 @@ The project focuses on clean structure, simplicity, and flexibility, making it s
 
 ## 🎯 Purpose
 
-Hound is intended for:
+Locsentra is intended for:
 - Educational use  
 - Experimental projects  
 - Learning how system utilities are built  
