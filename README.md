@@ -38,8 +38,3 @@ Hound is intended for:
 This project is provided for **educational and experimental purposes only**.  
 Use all tools responsibly and in accordance with applicable software licenses and terms of service.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
